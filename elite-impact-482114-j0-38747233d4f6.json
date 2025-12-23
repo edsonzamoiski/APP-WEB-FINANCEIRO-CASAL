@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elite-impact-482114-j0",
+  "private_key_id": "38747233d4f678be2ff389febe2bb8ec9178afaf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4iSc4lQImS82f\nQhQQp79Fb/f/G5L53mw1QqGVdJ+X5XGRXEFs0+ZWEr3KiUa4Z21Yx7EpqwwxvyHY\nb23QcjelTdJySXB8fkjbWjJ/jYkxhnqhkA70tJXbDdrin8AyXGFOEErvnxWD/i9t\n6gYJHLQ+ymuWa/WZkrRj4csHfaSmgN9XuTQZXl1RibgOMS0b2H8ufBhfJHDgQM9u\nnOO/aZeLs7ohpscz5HTm6xYfTbrqEk43iqet4nvWKw7C04RRLRz/I6b81dy5EFL7\nLZjDmQE+FXQFmGfH6g3h0Qoe4mnJwhWtVabQNdOhvk2iqtJva+XVV+QjAB9C8ex9\n6TmEHUB5AgMBAAECggEAA8nCUFsJYZffb2F/3/JRmYSkO/cTm/rWOyb/AikUDZ4x\nfUu+MWm4KhQrE+P1hluOgcANAaSilMguUwRr5gIyOjvQEiCHz/EXtckIOFjDdDd6\nf6Pharc6TEuLLr5wx5fgjNBbeXJz5/MT2Ncbq0biPFe+FacUXO6yB/WJTBdm2zQe\ncFSogB9Mbw/EEbFuFzCpLiqHGqSQL30OaKj/AcrJJ+9fHmio4GXlMgkqHUDGjRCh\nPrNAw6kK0B6+AwzFA5QkmNgr6SHrKHcDqvgtJIOhpbsRdXi1pthd3Ib9EXDsCv7N\nEGQl5HHVk9W9HyCZr90c/f6XoHDWqU+FluT8mO5HMQKBgQDn76lf2hxpczg0qROe\n2OTqXcjKiNS48xf8K9PTHNndYc6+hK2fVkyfS6kbIcupJ51l01V9ichzGZkBYZfB\nONwgtvJIMXk/NNQvR4HuTcnUdsMQ6SgXZfwuryxvuTiVrn1+kxu59HcB9jHrwllM\nfr/G+uiR3TBjrozKyWWEpGGAMwKBgQDLroNdnOrSb6j1CT0Oxx8mawP/eD7xQaod\nBP3mv6bDCI6lQ7UKvZrUWdtzTKALkunwYlY/6ekah4Bk0yFdCN+Kbdmxw+jdgcqz\n8Vp0ind8L7eFQpdMqVjOSE0FYj12gDaf4eydVRLr/iLob1c0J7QTmxW0ZCs91bEz\nxEMbArTgowKBgGcntJEpFNHhqPHi8RMJLGcAZzmNOe84T0acx41xm4RW5/jcUcw4\nOcPvhrrGgSousFaFc9Rt33UxwVdX7ILHoz/5njB1sJNoD6cniqZOeqHAYGm5CVe+\nyDaLOpxGKOCJxs7w5rgB/pwkv3c37TeUd/8rwRx+3/K1w3C9uiUQZzz5AoGBAIA0\nGUW8NmY8mEmcBg2eMjI5W+vaoSu0HEJl2Pb8HRhX84l8o6DeFW2iHapmSbrfP1bq\nXsWeEvZ64csUxcRMiIAWgtcMrC94ucEnorsGSQ0m78n2T0uWsGovQiOoYW2MaFWc\nnBWv7dgTP5+0LVyLvSI2FKRWBI3ISuB9oYuH2ZgnAoGBANBfmR1cG1FAE4Pt51ja\nvut6DFIEerq3GYNmrI2YXQyHd7GEjpDXv6fw0yA3JjmA1ruCFvPCcwk6B/c+A4H9\nS+8E2kBSuFMhvOhhny4DY+U0Yxakjy+m9t1zi4MK/VaOE/olk6NOyO6UFREXAdlY\n75LtItZnyX3KH72ULH7zZHhp\n-----END PRIVATE KEY-----\n",
+  "client_email": "financeiro-casal-app@elite-impact-482114-j0.iam.gserviceaccount.com",
+  "client_id": "113887918698155240567",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/financeiro-casal-app%40elite-impact-482114-j0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
