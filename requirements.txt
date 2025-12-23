@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-gspread
-google-auth
-reportlab
-matplotlib
